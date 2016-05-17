@@ -1,0 +1,14 @@
+﻿  MyAlgo.cpp
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(39): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(40): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(41): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(84): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tsp\documents\visual studio 2015\projects\myalgo\myalgo\myalgo.cpp(85): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MyAlgo.vcxproj -> C:\Users\TSP\documents\visual studio 2015\Projects\MyAlgo\Debug\MyAlgo.dll
